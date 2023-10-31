@@ -1,2 +1,0 @@
-# Clinical-Database-Design
-Assigments
